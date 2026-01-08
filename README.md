@@ -1,7 +1,7 @@
 ## EquiLedger
 High-Precision Expense Orchestration Engine
 
-EquiLedger is a Spring Boot service designed for accurate financial splitting and debt settlement. It focuses on financial integrity and algorithmic efficiency, demonstrating core SDE 2 engineering skills.
+EquiLedger is a Spring Boot service designed for accurate financial splitting and debt settlement.
 
 ## Key Features
 Penny Precision: Uses BigDecimal to solve the $0.01 rounding discrepancy.
